@@ -137,4 +137,6 @@
   <remove-project name="platform/system/tools/hidl" />
   <remove-project name="platform/external/v8" />
   <remove-project name="platform/system/connectivity/wificond" />
+  <remove-project name="platform/external/libmpeg2" />
+  <remove-project name="platform/external/tremolo" />
 </manifest>
