@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="manifest" name="AOSPEXTENDED_OREO" remote="Raschad" />
+  <project path="manifest" name="aosp_extended" remote="Raschad" />
   <project path="build/make" name="platform_build" remote="aex" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
