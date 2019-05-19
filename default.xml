@@ -15,7 +15,7 @@
            fetch="https://gitlab.com/Roker2" />
   
   <remote  name="Raschad"
-           fetch="https://gitlab.com/Raschad" />
+           fetch="https://github.com/Raschad" />
 
   <remote  name="ROM_Sony"
            fetch="https://gitlab.com/ROM_Sony/aospextended"
